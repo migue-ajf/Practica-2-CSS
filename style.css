@@ -1,0 +1,77 @@
+h1.título{
+    text-align: center;
+    font-family: PottaOne-Regular;
+    
+    background-color: blue;
+    color: yellow;
+    width:150vh;
+}
+@font-face{
+    font-family: PottaOne-Regular;
+    src: url(Fuentes/PottaOne-Regular.ttf);
+  
+}
+
+
+@font-face{
+   
+    font-family:CodaCaption-ExtraBold ;
+    src:url(Fuentes/CodaCaption-ExtraBold.ttf) ;
+}
+
+@font-face{
+    font-family: YuseiMagic-Regular;
+    src: url(Fuentes/YuseiMagic-Regular.ttf);
+}
+
+
+p.cuadrado{
+    background-color:teal ;
+    width: 60vh;
+    height: 11vh;
+    color: white;
+    float: left;
+    font-size: small;
+    }
+
+p.programadora{
+    background-color: black;
+    color: yellow;
+    font-size: small;
+    
+    height: 3vh;
+    width: 150vh;
+    
+}
+
+p.programadora1{
+    background-color: black;
+    color: yellow;
+    font-size: small;
+    
+    height: 3vh;
+    width: 100vh;
+    
+}
+
+
+hr.azul {
+    height: 10px;
+    background-color: blue;
+    width: 150vh;
+    float: left;
+  }
+
+  p.coda{
+    font-family:CodaCaption-ExtraBold ;
+    font-size: xx-large;
+  }
+
+  hr{
+      width: 50%;
+  }
+
+  p.fin{
+      font-family: YuseiMagic-Regular;
+      font-size: x-large;
+  }
